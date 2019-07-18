@@ -1,0 +1,8 @@
+hazm
+sklearn
+nltk
+requests
+numpy
+pandas
+flask
+beautifulsoup4
