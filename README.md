@@ -40,7 +40,7 @@ The code exports a csv file which includes normalized texts with their labels in
 It also saves the model as a pickle file.
 
 ## Scraper
-Scraper's python code is added into scraper directory. If you want to add new texts, you should give a valid url like: [url](https://www.isna.ir/page/archive.xhtml?mn=4&wide=0&dy=17&ms=0&pi=1&yr=1398&tp=24)
+Scraper's python code is added in scraper directory. If you want to add new texts, you should give a valid url like: [url](https://www.isna.ir/page/archive.xhtml?mn=4&wide=0&dy=17&ms=0&pi=1&yr=1398&tp=24)
 
 ## Install
 You can install libararies by running the command `pip install -r reqirements.txt` in cmd-windows or if you are using linux, use pip3 instead of pip.
